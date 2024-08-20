@@ -1,0 +1,96 @@
+.login-form {
+  padding: 0 20px;
+  background-color: #bf945b;
+  width: fit-content;
+  margin-left: 100px;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 20px;
+  background-color: transparent;
+}
+
+.login-container label {
+  margin-bottom: 5px;
+  color: black;
+  text-align: left;
+}
+
+.login-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: tan;
+}
+
+.display-text {
+  color: black;
+}
+
+.signup-form {
+  padding: 0 20px;
+  background-color: #bf945b;
+}
+
+.signup-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 20px;
+  background-color: transparent;
+}
+
+.signup-container label {
+  margin-bottom: 5px;
+  color: black;
+  text-align: left;
+}
+
+.signup-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: tan;
+}
+
+.signup-container button {
+  align-self: center;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: tan;
+  color: black;
+  cursor: pointer;
+  width: 100px;
+}
+
+.signup-container button:hover {
+  background-color: #0056b3;
+}
+
+.gender-combo {
+  height: 40px;
+  width: 323px;
+  background-color: tan;
+  border-color: white;
+}
+
+.login-title {
+  color: #bf945b;
+}
+
+.login {
+  display: flex;
+}
+
+.img-container {
+  position: sticky;
+  margin: 70px 0px;
+}

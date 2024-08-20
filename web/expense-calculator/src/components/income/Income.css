@@ -1,0 +1,15 @@
+.income {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.income button {
+  width: fit-content;
+}
+
+.table {
+  color: black;
+  border: 1px solid black;
+  margin-top: 35px;
+}

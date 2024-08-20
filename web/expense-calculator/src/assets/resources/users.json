@@ -1,0 +1,18 @@
+{
+    "users": [{
+        "id": "1",
+        "first_name": "Nidhiya",
+        "last_name": "Pious",
+        "salary": "8 lpa"
+    }, {
+        "id": "2",
+        "first_name": "John",
+        "last_name": "Bernadin",
+        "salary": "16 lpa"
+    }, {
+        "id": "3",
+        "first_name": "Ruah",
+        "last_name": "John",
+        "salary": "null"
+    }]
+}

@@ -1,0 +1,30 @@
+.layout {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.navigation ul {
+  list-style: none;
+  text-align: start;
+  color: black;
+  padding: 15px;
+  line-height: 50px;
+}
+
+.navigation {
+  width: 100px; /* Adjust as needed */
+  background-color: tan; /* Background color for the navigation */
+  padding: 20px; /* Padding for the navigation */
+  position: fixed; /* Fixed position */
+  height: 100vh; /* Full viewport height */
+  top: 0; /* Aligns it to the top */
+  left: 0; /* Aligns it to the left */
+}
+
+.content {
+  padding: 20px; /* Padding for the content */
+  flex: 1; /* Takes up the remaining space */
+  background-color: #bf945b;
+  margin-left: 75px;
+}
